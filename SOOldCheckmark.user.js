@@ -1,8 +1,15 @@
 // ==UserScript==
 // @name          SOOldCheckmark
-// @include       http://stackoverflow.com/questions/*
-// @include       http://*.stackoverflow.com/questions/*
 // @include       http://*.stackexchange.com/questions/*
+// @include       http://answers.onstartups.com/questions/*
+// @include       http://askubuntu.com/questions/*
+// @include       http://meta.askubuntu.com/questions/*
+// @include       http://meta.serverfault.com/questions/*
+// @include       http://meta.stackoverflow.com/questions/*
+// @include       http://serverfault.com/questions/*
+// @include       http://stackapps.com/questions/*
+// @include       http://stackoverflow.com/questions/*
+// @include       http://superuser.com/questions/*
 // @require       http://code.jquery.com/jquery-2.0.0.min.js
 // @version       1.0
 // ==/UserScript==
