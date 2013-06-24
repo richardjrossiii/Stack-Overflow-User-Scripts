@@ -4,7 +4,7 @@
 // @include       http://stackoverflow.com/*
 // @include       http://*.stackoverflow.com/*
 // @include       http://*.stackexchange.com/*
-// @require       http://code.jquery.com/jquery-2.0.0.min.js
+// @require       http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js
 // @version       1.0
 // ==/UserScript==
 
